@@ -78,3 +78,12 @@ Review (학습 분석 다이어리)
 
 **데이터 저장**
 - LocalStorage
+  
+
+**시연 영상**
+<video src="https://github.com/user-attachments/assets/89206709-f446-41e6-9b28-71e92a72f4c1" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/de24a046-e873-45d9-9e2e-6a3ec3b8ec4c" controls width="100%"></video>
+
+
+
+
